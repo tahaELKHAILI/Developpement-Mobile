@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="35dp"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imc"
+        android:layout_width="300dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/imc"
+        />
+
+
+    <TextView
+        android:id="@+id/poidsView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/poids_view"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        />
+
+    <EditText
+        android:id="@+id/poidsField"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <TextView
+        android:id="@+id/tailleView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/taille_view"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        />
+
+    <EditText
+        android:id="@+id/tailleField"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <Button
+        android:id="@+id/buttonSubmit"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/submit_button_name"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+    />
+
+    <TextView
+        android:id="@+id/viewResultText"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_margin="10dp"
+        />
+
+    <ImageView
+        android:id="@+id/viewResultImg"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="10dp"
+        />
+
+</LinearLayout>
