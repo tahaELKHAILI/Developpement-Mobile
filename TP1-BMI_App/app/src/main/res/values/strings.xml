@@ -3,4 +3,8 @@
     <string name="poids_view">Poids (kg)</string>
     <string name="taille_view">Taille (cm)</string>
     <string name="submit_button_name">Calculer IMC</string>
+    <string name="invalid_input"> Valeur invalide</string>
+    <string name="resultats_text"> Votre IMC est: %1$.1f</string>
+    <string name="poids_hint">Entrer le poids</string>
+    <string name="taille_hint"> Entrer la taille</string>
 </resources>
