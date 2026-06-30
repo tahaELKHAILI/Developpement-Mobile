@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="appName">Account</string>
+    <string name="account">Account information </string>
+    <string name="username">Username :</string>
+    <string name="password">Password :</string>
+    <string name="signin">Sign in</string>
+    <string name="fillin">Kindly complete all the required fields !</string>
+</resources>

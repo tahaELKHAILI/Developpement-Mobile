@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Compte</string>
+    <string name="account">Les informations du compte</string>
+    <string name="username">Nom d\'utilisateur :</string>
+    <string name="password">Mot de passe :</string>
+    <string name="signin">S\'identifier</string>
+    <string name="fillin">Veuillez remplir tous les champs obligatoires !</string>
+</resources>
