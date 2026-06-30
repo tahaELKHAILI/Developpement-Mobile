@@ -45,6 +45,9 @@ class MainActivity : AppCompatActivity() {
                 if (deltaX < -100) {
                     startActivity(Intent(this, MainActivity2::class.java))
                 }
+                else if (deltaX > 100){
+                    startActivity(Intent(this, MainActivity5::class.java))
+                }
             }
         }
 
