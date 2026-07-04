@@ -15,25 +15,35 @@ Pratique des concept the base de programmation OO avec Dart
 
 ## Partie 2
 ### Version Web
-|Home|Drawer|Meteo|Gallery|Counter|
-|----|------|-----|--------|------|
-|![homeweb](./screenshots/Web_HomePage.png)|![Drawer](./screenshots/Web_Drawer.png)|![Meteo](./screenshots/Web_Meteo.png)|![login](./screenshots/Web_Gallery.png)|[counter](./screenshots/Web_Counter.png)|
+|Home|Drawer|Meteo|Gallery|
+|----|------|-----|--------|
+|![homeweb](./screenshots/Web_HomePage.png)|![Drawer](./screenshots/Web_Drawer.png)|![Meteo](./screenshots/Web_Meteo.png)|![gallery](./screenshots/Web_Gallery.png)|
 
-|Login|Game|X Win|O win|Draw|
-|----|-----|-----|----|-----|
-|![login](./screenshots/Web_Login.png)|![Game](./screenshots/Web_Game.png)|![X win](./screenshots/Web_XWIN.png)|![O win](./screenshots/Web_OWIN.png)|[Draw](./screenshots/Web_Draw.png)|
+
+|Counter|Contact|Login|
+|------|--------|------|
+|![counter](./screenshots/Web_Counter.png)|![contact](./screenshots/Web_Contact.png)|![login](./screenshots/Web_Login.png)|
+
+
+|Game|X Win|O win|Draw|
+|----|-----|-----|----|
+|![Game](./screenshots/Web_Game.png)|![X win](./screenshots/Web_XWIN.png)|![O win](./screenshots/Web_OWIN.png)|[Draw](./screenshots/Web_Draw.png)|
 
 
 ### Version Android
-|Home|Drawer|Meteo|Gallery|Counter|
-|----|------|-----|--------|------|
-|![homeweb](./screenshots/Android_Home.png)|![Drawer](./screenshots/Android_Drawer.png)|![Meteo](./screenshots/Android_Meteo.png)|![login](./screenshots/Android_Login.png)|[counter](./screenshots/Android_Counter.png)
+|Home|Drawer|Meteo|Gallery|
+|----|------|-----|--------|
+|![homeweb](./screenshots/Android_Home.png)|![Drawer](./screenshots/Android_Drawer.png)|![Meteo](./screenshots/Android_Meteo.png)|![login](./screenshots/Android_Login.png)|
 
 
+|Counter|Contact|Login|
+|------|--------|------|
+|![counter](./screenshots/Web_Counter.png)|![contact](./screenshots/Web_Contact.png)|![login](./screenshots/Web_Login.png)|
 
-|Login|Game|X Win|O win|Draw|
-|----|-----|-----|----|-----|
-|![login](./screenshots/Android_Login.png)|![Game](./screenshots/Android_Game.png)|![X win](./screenshots/Android_XWIN.png)|![O win](./screenshots/Android_OWIN.png)|[Draw](./screenshots/Android_Draw.png)|
+
+|Game|X Win|O win|Draw|
+|----|-----|-----|----|
+|![Game](./screenshots/Android_Game.png)|![X win](./screenshots/Android_XWIN.png)|![O win](./screenshots/Android_OWIN.png)|[Draw](./screenshots/Android_Draw.png)|
 
 
 
