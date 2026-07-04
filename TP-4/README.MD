@@ -14,3 +14,32 @@ Pratique des concept the base de programmation OO avec Dart
 ![example3](./screenshots/Example3.png)
 
 ## Partie 2
+### Version Web
+|Home|Drawer|Meteo|Gallery|Counter|
+|----|------|-----|--------|------|
+|![homeweb](./screenshots/Web_HomePage.png)|![Drawer](./screenshots/Web_Drawer.png)|![Meteo](./screenshots/Web_Meteo.png)|![login](./screenshots/Web_Gallery.png)|[counter](./screenshots/Web_Counter.png)|
+
+|Login|Game|X Win|O win|Draw|
+|----|-----|-----|----|-----|
+|![login](./screenshots/Web_Login.png)|![Game](./screenshots/Web_Game.png)|![X win](./screenshots/Web_XWIN.png)|![O win](./screenshots/Web_OWIN.png)|[Draw](./screenshots/Web_Draw.png)|
+
+
+### Version Android
+|Home|Drawer|Meteo|Gallery|Counter|
+|----|------|-----|--------|------|
+|![homeweb](./screenshots/Android_Home.png)|![Drawer](./screenshots/Android_Drawer.png)|![Meteo](./screenshots/Android_Meteo.png)|![login](./screenshots/Android_Login.png)|[counter](./screenshots/Android_Counter.png)
+
+
+
+|Login|Game|X Win|O win|Draw|
+|----|-----|-----|----|-----|
+|![login](./screenshots/Android_Login.png)|![Game](./screenshots/Android_Game.png)|![X win](./screenshots/Android_XWIN.png)|![O win](./screenshots/Android_OWIN.png)|[Draw](./screenshots/Android_Draw.png)|
+
+
+
+### Exécution
+```bash
+        cd app_synthese
+        flutter run -d edge --dart-define-from-file=.env             # aperçu web
+        flutter run -d <id-emulateur> --dart-define-from-file=.env   # sur émulateur/téléphone Android
+```

@@ -4,6 +4,7 @@ import 'package:app_synthese/pages/counter.page.dart';
 import 'package:app_synthese/pages/gallery.page.dart';
 import 'package:app_synthese/pages/home.page.dart';
 import 'package:app_synthese/pages/meteo.page.dart';
+import 'package:app_synthese/pages/login.page.dart';
 
 
 class GlobalParameters {
@@ -13,7 +14,7 @@ class GlobalParameters {
     '/contacts': (context) => const ContactsPage(),
     '/meteo': (context) => const MeteoPage(),
     '/gallery': (context) => const GalleryPage(),
-    //'/login': (context) => const LoginPage(),
+    '/login': (context) => const LoginPage(),
   };
 
   static final List<Map<String, dynamic>> menus = [
