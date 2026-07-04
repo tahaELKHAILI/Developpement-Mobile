@@ -38,7 +38,7 @@ Pratique des concept the base de programmation OO avec Dart
 
 |Counter|Contact|Login|
 |------|--------|------|
-|![counter](./screenshots/Web_Counter.png)|![contact](./screenshots/Web_Contact.png)|![login](./screenshots/Web_Login.png)|
+|![counter](./screenshots/Android_Counter.png)|![contact](./screenshots/Android_Contact.png)|![login](./screenshots/Android_Login.png)|
 
 
 |Game|X Win|O win|Draw|
