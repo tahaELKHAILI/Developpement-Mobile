@@ -12,12 +12,12 @@ Familiarisation avec Kotlin et android studio
 ## Screenshots
 
 ### Interface
-![alt text](screenshots/Interface.png)
+![alt text](./BMI_APP/screenshots/Interface.png)
 
 ### Resultat avec des entres correctes
-![alt text](screenshots/ValeurCorrect.png)
+![alt text](./BMI_APP/screenshots/ValeurCorrect.png)
 
 ### Resultat avec des mauvais entres
-![alt text](screenshots/ValeurVideError.png)
+![alt text](./BMI_APP/screenshots/ValeurVideError.png)
 
 
